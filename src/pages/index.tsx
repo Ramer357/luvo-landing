@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Sparkles, ShoppingBag, Users, ArrowRight, Instagram, Mail, MessageCircle } from "lucide-react";
+import { Sparkles, ShoppingBag, Users, ArrowRight } from "lucide-react";
 import { FaTiktok, FaInstagram } from "react-icons/fa";
 
 
@@ -186,7 +186,7 @@ export default function LandingPage() {
                 Join the Luvo Community
               </h2>
               <p className="text-xl text-white/90 mb-12 max-w-2xl mx-auto leading-relaxed">
-                No ads. No fake influencers. No algorithm pushing products you don't want.
+                No ads. No fake influencers. No algorithm pushing products you don&apos;t want.
                 <br />
                 Just real people, real style, and real community.
               </p>
